@@ -437,50 +437,6 @@ DEFAULT_THRESHOLDS = {
         'alto': 38.0,
         'crítico': 43.0
     }
-}
-```
-
-## 🤝 Contribución
-
-1. Fork el repositorio
-2. Crear rama feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit cambios (`git commit -am 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Crear Pull Request
-
-### Estándares de Código
-
-- **PEP 8**: Estilo de código Python
-- **Type hints**: Usar anotaciones de tipos
-- **Docstrings**: Documentar funciones y clases
-- **Tests**: Cobertura mínima del 80%
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detalles.
-
-## 📞 Soporte
-
-Para soporte técnico o preguntas:
-
-- **Issues**: Usar GitHub Issues para reportar bugs
-- **Documentación**: Consultar `/docs` en la API corriendo
-- **Email**: contacto@meteorologia.com (ejemplo)
-
-## 🗺️ Roadmap
-
-### Versión 1.1
-- [ ] Integración con más fuentes de datos
-- [ ] Notificaciones por email/SMS
-- [ ] Dashboard web frontend
-- [ ] Caching con Redis
-
-### Versión 1.2
-- [ ] Machine Learning para predicciones
-- [ ] API GraphQL
-- [ ] Métricas con Prometheus
-- [ ] Soporte para múltiples idiomas
-
----
+} 
 
 **🌟 ¡Gracias por usar nuestro Servicio Meteorológico Integrado!** 
